@@ -3,7 +3,7 @@
  * simple: network-first for navigations (deploys show up when online, cache
  * serves offline), cache-first for everything else (icons, manifest).
  */
-const CACHE = "shoehorn-v1";
+const CACHE = "fitzle-v1";
 const PRECACHE = [
   "./",
   "./manifest.webmanifest",

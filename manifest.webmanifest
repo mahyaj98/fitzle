@@ -1,6 +1,6 @@
 {
-  "name": "Shoehorn — pentomino packing puzzles",
-  "short_name": "Shoehorn",
+  "name": "Fitzle — pentomino packing puzzles",
+  "short_name": "Fitzle",
   "description": "Fit the pieces where they belong. Unique-solution pentomino packing puzzles, generated on the fly.",
   "start_url": "./",
   "scope": "./",
