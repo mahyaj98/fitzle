@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mahyaj98.fitzle",
+      "sha256_cert_fingerprints": [
+        "BC:7E:F4:04:7F:91:73:B3:A4:51:BB:0F:69:DB:4C:A8:3A:3F:D8:9C:2A:A5:1E:AA:38:49:82:FF:30:FA:08:BD"
+      ]
+    }
+  }
+]
